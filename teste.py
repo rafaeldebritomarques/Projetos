@@ -1,1 +1,2 @@
-print ('valor');   
+print ("Valor Inicial"); 
+print("nova linha")  
